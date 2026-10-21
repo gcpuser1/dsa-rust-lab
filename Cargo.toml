@@ -1,0 +1,9 @@
+[package]
+name = "dsa-rust-lab"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+publish = false
+description = "Practical, mastery-driven DSA learning in Rust"
+
+[dependencies]
