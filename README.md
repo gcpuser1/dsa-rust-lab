@@ -11,6 +11,14 @@
 3. Record evidence in [progress.csv](progress.csv); use the [session template](templates/session.md).
 4. See the [research review](docs/RESEARCH.md) for sources, additions and deliberate exclusions.
 
+## Continue with Kiro
+
+Read or paste [KIRO_CONTEXT.md](KIRO_CONTEXT.md): it contains the complete curriculum, all 100 sessions, teaching method and tutor instructions. Open this repository in Kiro to use the included `.kiro/steering/dsa-tutor.md` file and AGENTS.md.
+
+Start with: "Read KIRO_CONTEXT.md and SESSION_STATE.md. Act as my Socratic DSA tutor. Resume the current day, ask one question at a time, and wait for my attempt before showing a solution."
+
+[SESSION_STATE.md](SESSION_STATE.md) and progress.csv record live progress; the guide's initial handoff is a dated snapshot.
+
 ## Run locally
 
 Install Rust from https://rustup.rs if needed. This project uses Rust 2024 (compiler 1.85+), has no third-party dependencies, and uses the installed toolchain. CI tracks stable Rust.
